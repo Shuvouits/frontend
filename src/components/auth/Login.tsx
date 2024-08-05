@@ -27,9 +27,7 @@ function login() {
         <Card>
           <CardHeader>
             <CardTitle>Account Login</CardTitle>
-            <CardDescription>
-              Make changes to your account here. Click save when you're done.
-            </CardDescription>
+            <CardDescription>Welcome to Stack Dev.</CardDescription>
           </CardHeader>
 
           <form>
